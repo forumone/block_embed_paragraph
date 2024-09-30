@@ -1,0 +1,12 @@
+{
+    "name": "forumone/block_embed_paragraph_type_recipe",
+    "description": "Provides a simple paragraph type for embedding blocks using the drupal/block_field module.",
+    "type": "drupal-recipe",
+    "require": {
+        "drupal/core": "^10.3",
+        "drupal/blockfield": "^1.0@RC"
+    },
+    "suggest": {
+    },
+    "license": "GPL-2.0-or-later"
+}

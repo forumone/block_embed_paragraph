@@ -1,0 +1,7 @@
+name: 'Block Embed Paragraph Type'
+description: 'Provides a simple paragraph type for embedding blocks via the blockfield contrib module.'
+type: 'Paragraphs'
+
+install:
+  - paragraphs
+  - blockfield
