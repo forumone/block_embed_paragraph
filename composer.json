@@ -4,7 +4,7 @@
     "type": "drupal-recipe",
     "require": {
         "drupal/core": "^10.3",
-        "drupal/blockfield": "^1.0@RC"
+        "drupal/block_field": "^1.0@RC"
     },
     "suggest": {
     },
